@@ -1,0 +1,1 @@
+INSERT INTO reservation (reservation_code, guest_name, guest_email, start_date,end_date) VALUES ('5b4107f3-438c-4b89-a3ba-27b7044220bd', 'Ricardo Cunha', 'ricardocunha@gmail.com', '2018-12-01', '2018-12-03');
